@@ -1,0 +1,4 @@
+sudo uname -a
+sudo apt instal linux-oem
+sudo reboot
+
